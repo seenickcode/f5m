@@ -12,4 +12,6 @@ For those that have more than 5 minutes, you can also check out [fluttercrashcou
 
 ### [list_view](list_view)
 
+A simple `StatefulWidget` example, presented using `ListView`, showing a list of items. This example makes a delayed call to fetch some data, showing show state can be used to either show a "Loading..." message or the list contents.
+
 ![screenshot](list_view/screenshot.gif)
