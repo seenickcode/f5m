@@ -1,8 +1,5 @@
-# list_view
+# Flutter in 5 Minutes
 
-A new Flutter project.
+Source code for all the cool things you can learn about Flutter in 5 minutes.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For updates, follow [@seenickcode](https://twitter.com/seenickcode).
